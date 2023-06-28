@@ -234,27 +234,26 @@
 ## 7.1. 홈 🏠 
 |시작 화면|회원가입 페이지|회원가입 프로필 설정 페이지|
 |---|---|---|
-|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
+|![시작_화면_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/bc92b60c-72f5-422a-8d42-9aae285a4d92)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
 |피드 페이지|검색 페이지|
-|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|
-## 7.2. 채팅 💬
+|![피드_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/98cf387e-a732-490f-b69a-e2f8f907b12f)|<img width="392" alt="검색 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/b9afd804-3189-46d7-a86d-e6eb32275f41">|
+
+# 7.2. 채팅 💬
 |채팅 페이지|
 |---|
 |![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|
 ## 7.3. 게시글 🗒️
-|시작 화면|회원가입 페이지|회원가입 프로필 설정 페이지|
+|게시글 상세 페이지|게시글 업로드 페이지|게시글 삭제|
 |---|---|---|
-|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
-|게시글 삭제|게시글 신고|좋아요 기능|
-|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
+|![시작_화면_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/bc92b60c-72f5-422a-8d42-9aae285a4d92)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)||
+||게시글 신고|좋아요 기능|
+||![좋아요_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/cdeddc56-f3fa-4b3f-8f1b-2e119447c1f3)|
 ## 7.4. 프로필 🧑‍💻
 |My Profile 페이지|Your Profile 페이지|리스트 / 앨범형으로 보기|
 |---|---|---|
-|![마이_프로필_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/c46c4a6a-cf0b-4817-8313-521c83227352)|![유어_프로필_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/75c9c52c-baff-4af2-92b9-154600448994)|![리스트앨범으로보기_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/34da351d-a69d-4c83-ada4-e9368415429b)|
+|![마이 프로필 페이지](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/470899b9-98c0-4931-879a-f21d7efb974e)|![유어_프로필_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/75c9c52c-baff-4af2-92b9-154600448994)|![리스트앨범으로보기_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/34da351d-a69d-4c83-ada4-e9368415429b)|
 |프로필 수정 페이지|팔로워/팔로잉 페이지|로그아웃 기능|
-|![프로필_수정_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/568987e0-3237-4b36-9b9e-9ce7493609be)
-|![팔로워팔로잉_페이지_AdobeExpress (1)](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/172c6b25-a957-412f-bc8f-fed8cd46a7f3)
-|![로그아웃_기능_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/11c8fc3c-a333-4595-9273-8e99adbc1ae8)|
+|![프로필수정페이지](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/3f75abb0-75b5-4d83-a222-b943ceff04ca)|![팔로워팔로잉_페이지_AdobeExpress (1)](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/172c6b25-a957-412f-bc8f-fed8cd46a7f3)|![로그아웃_기능_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/11c8fc3c-a333-4595-9273-8e99adbc1ae8)|
 ## 7.5. 공구중인 상품 🛒
 |공구 중인 상품 등록 페이지|
 |---|
