@@ -234,23 +234,21 @@
 ## 7.1. 홈 🏠 
 |시작 화면|회원가입 페이지|회원가입 프로필 설정 페이지|
 |---|---|---|
-|![시작_화면_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/bc92b60c-72f5-422a-8d42-9aae285a4d92)|![회원가입_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/3d3699e4-ac07-4fa4-bf30-03422b30ecea)
-|![회원가입_프로필_설정_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/40ea6f81-c879-4e2b-8295-081f33002c5b)|
+|<img width="390" alt="시작화면" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/bc92b60c-72f5-422a-8d42-9aae285a4d92">|<img width="390" alt="회원가입 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/3d3699e4-ac07-4fa4-bf30-03422b30ecea">|<img width="390" alt="회원가입 프로필 설정 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/40ea6f81-c879-4e2b-8295-081f33002c5b">|
 |피드 페이지|검색 페이지|
-|![피드_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/edaf0867-e469-4c9b-a1d7-1c3f72acfbac)|<img width="392" alt="검색 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/b9afd804-3189-46d7-a86d-e6eb32275f41">|
+|<img width="390" alt="피드 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/edaf0867-e469-4c9b-a1d7-1c3f72acfbac">|<img width="390" alt="검색 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/b9afd804-3189-46d7-a86d-e6eb32275f41">|
 
 # 7.2. 채팅 💬
 |채팅 페이지|
 |---|
-|![채팅_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/4aa7ea20-a8ed-498d-badf-1178dc633d61)|
+|<img width="390" alt="채팅 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/4aa7ea20-a8ed-498d-badf-1178dc633d61">|
 ## 7.3. 게시글 🗒️
 |게시글 상세 페이지|게시글 업로드 페이지|게시글 삭제|
 |---|---|---|
-|![게시글_상세_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/cfa60dea-c76f-412b-b75c-90b7c99bcaca)
-|![게시글_업로드_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/3c903642-619e-43c5-96b6-f57939e3a47c)|![게시글_삭제_기능_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/038cf480-fc50-4750-93c2-99d33c4d1c5f)|
-||게시글 신고|좋아요 기능|
-|![게시글_신고_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/0eebc81e-07cd-4076-9bae-b0a5845f948a)
-|![좋아요_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/cdeddc56-f3fa-4b3f-8f1b-2e119447c1f3)|
+|<img width="390" alt="게시글 상세 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/cfa60dea-c76f-412b-b75c-90b7c99bcaca">|<img width="390" alt="게시글 업로드 페이지" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/d3bfb495-75c8-4048-b72d-e2d9cb4591f9">
+|<img width="390" alt="게시글 삭제" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/9c1cef12-25c7-4436-837d-c350a743dae1">|
+|게시글 신고|좋아요 기능|
+|<img width="390" alt="게시글 신고" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/109861096/64c56a13-2836-4b2b-8699-1d8670661118">|<img width="390" alt="좋아요 기능" src="https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/cdeddc56-f3fa-4b3f-8f1b-2e119447c1f3">|
 ## 7.4. 프로필 🧑‍💻
 |My Profile 페이지|Your Profile 페이지|리스트 / 앨범형으로 보기|
 |---|---|---|
