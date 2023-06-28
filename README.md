@@ -34,7 +34,7 @@
       <td align="center"><a href="https://github.com/jjo-mi?tab=repositories"><img src=""width="200px;" alt=""/><br /><sub><b>FE 팀장 : 정종미 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>FE 팀원 : 김지우 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>FE 팀원 : 신기찬 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="200px;" alt=""/><br /><sub><b>FE 팀원 : 정선빈 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jsunbin"><img src="https://avatars.githubusercontent.com/u/96880673?v=4" width="200px;" alt=""/><br /><sub><b>FE 팀원 : 정선빈 </b></sub></a><br /></td>
   </tbody>
 </table>
 
@@ -224,23 +224,45 @@
 - 모달 구현 시 모달이 필요한 여러 컴포넌트 내에서 동일한 로직이 반복적으로 사용되는 것을 발견.
 - 이를, useModal 이라는 커스텀 훅으로 만듦으로써 코드의 중복 최소화 및 상태 관리 로직의 재사용성을 높임.
 
-## 6-3. Button 컴포넌트
+## 6-3. Layout 컴포넌트
 
-- 재사용성이 높은 버튼을 공통 컴포넌트로 만들어 여러 페이지 내에서 사용할 수 있게 구현함.
-- 기본 버튼 컴포넌트 구현 후 버튼의 스타일 컴포넌트에서 사이즈,disabled,색상 등을 prop 인자로 받아와서 여러 페이지에서 사용할 수 있게 구현함.
-- 특히, 버튼의 사이즈를 SIZES 라는 객체(s,ms,m)로 변수를 지정하여 확장성있는 코드로 구현함.
+- 페이지마다 레이아웃 통일을 위해 공통 컴포넌트로 만들어 여러 페이지에서 사용할 수 있도록 함.
+- url을 기준으로 Header와 Footer의 type을 결정하여 props로 Header와 Footer 컴포넌트에 전달함.
+- 페이지가 업데이트 되더라도 타입만 추가해주면 간단하게 레이아웃 적용 가능할 수 있도록 구현함.
 
 # 7. 페이지 캡쳐
 ## 7.1. 홈 🏠 
-|시작 화면|회원가입 페이지|로그인 페이지|
+|시작 화면|회원가입 페이지|회원가입 프로필 설정 페이지|
 |---|---|---|
 |![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
+|피드 페이지|검색 페이지|
+|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|
 ## 7.2. 채팅 💬
+|채팅 페이지|
+|---|
+|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|
 ## 7.3. 게시글 🗒️
+|시작 화면|회원가입 페이지|회원가입 프로필 설정 페이지|
+|---|---|---|
+|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
+|게시글 삭제|게시글 신고|좋아요 기능|
+|![splash](https://user-images.githubusercontent.com/112460383/210291447-6c88dc14-ba44-4870-af05-7d40c589fe5a.gif)|![회원가입](https://user-images.githubusercontent.com/112460383/210291056-665177a0-08af-4765-9d7c-a79946dd5f91.gif)|![로그인](https://user-images.githubusercontent.com/112460383/210291068-b8cbf123-455c-4dd2-b8aa-c6150bc0b762.gif)|
 ## 7.4. 프로필 🧑‍💻
+|My Profile 페이지|Your Profile 페이지|리스트 / 앨범형으로 보기|
+|---|---|---|
+|![마이_프로필_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/c46c4a6a-cf0b-4817-8313-521c83227352)|![유어_프로필_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/75c9c52c-baff-4af2-92b9-154600448994)|![리스트앨범으로보기_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/34da351d-a69d-4c83-ada4-e9368415429b)|
+|프로필 수정 페이지|팔로워/팔로잉 페이지|로그아웃 기능|
+|![프로필_수정_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/568987e0-3237-4b36-9b9e-9ce7493609be)
+|![팔로워팔로잉_페이지_AdobeExpress (1)](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/172c6b25-a957-412f-bc8f-fed8cd46a7f3)
+|![로그아웃_기능_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/11c8fc3c-a333-4595-9273-8e99adbc1ae8)|
 ## 7.5. 공구중인 상품 🛒
+|공구 중인 상품 등록 페이지|
+|---|
+|![상품_등록_페이지_AdobeExpress](https://github.com/FRONTENDSCHOOL5/final-25-would-you/assets/96880673/b3bd5468-1a4e-4192-be1a-2db9f81f28dd)|
 
 <br/>
+
+
 
 <p align="right"><a href="#top">(Top)</a></p>
 
